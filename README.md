@@ -9,7 +9,7 @@
 ## Step 1: Create Discord Bot
 
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
-2. Click "New Application" and name it "Astryx Support"
+2. Click "New Application" and name it.
 3. Go to "Bot" section and click "Add Bot"
 4. Enable these Privileged Gateway Intents:
    - Server Members Intent
